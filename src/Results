@@ -1,0 +1,283 @@
+/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/bin/java -javaagent:/Users/shahartrabelsi/Desktop/IntelliJ IDEA.app/Contents/lib/idea_rt.jar=60571:/Users/shahartrabelsi/Desktop/IntelliJ IDEA.app/Contents/bin -Dfile.encoding=UTF-8 -classpath /Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_361.jdk/Contents/Home/jre/lib/rt.jar:/Users/shahartrabelsi/Downloads/client-server-examples-2/Caching/out/production/Caching:/Users/shahartrabelsi/.m2/repository/org/jfree/org.jfree.chart3d/2.1.0/org.jfree.chart3d-2.1.0.jar:/Users/shahartrabelsi/.m2/repository/org/jfree/org.jfree.chart.fx/2.0.1/org.jfree.chart.fx-2.0.1.jar:/Users/shahartrabelsi/.m2/repository/org/jfree/jfreechart/1.5.3/jfreechart-1.5.3.jar:/Users/shahartrabelsi/.m2/repository/org/openjfx/javafx-controls/15/javafx-controls-15.jar:/Users/shahartrabelsi/.m2/repository/org/openjfx/javafx-controls/15/javafx-controls-15-mac.jar:/Users/shahartrabelsi/.m2/repository/org/openjfx/javafx-graphics/15/javafx-graphics-15.jar:/Users/shahartrabelsi/.m2/repository/org/openjfx/javafx-graphics/15/javafx-graphics-15-mac.jar:/Users/shahartrabelsi/.m2/repository/org/jfree/org.jfree.fxgraphics2d/2.1/org.jfree.fxgraphics2d-2.1.jar:/Users/shahartrabelsi/.m2/repository/org/openjfx/javafx-base/15/javafx-base-15.jar:/Users/shahartrabelsi/.m2/repository/org/openjfx/javafx-base/15/javafx-base-15-mac.jar:/Users/shahartrabelsi/.m2/repository/org/openjfx/javafx-swing/15/javafx-swing-15.jar:/Users/shahartrabelsi/.m2/repository/org/openjfx/javafx-swing/15/javafx-swing-15-mac.jar Main
+Cache Size: 20
+-------------------------
+Experiment: 1
+-------------------------
+RAND hit rate: 0.043
+OPT hit rate: 0.214
+-------------------------
+Experiment: 2
+-------------------------
+RAND hit rate: 0.036
+OPT hit rate: 0.198
+-------------------------
+Experiment: 3
+-------------------------
+RAND hit rate: 0.033
+OPT hit rate: 0.206
+-------------------------
+Experiment: 4
+-------------------------
+RAND hit rate: 0.042
+OPT hit rate: 0.198
+-------------------------
+Experiment: 5
+-------------------------
+RAND hit rate: 0.042
+OPT hit rate: 0.203
+-------------------------
+Experiment: 6
+-------------------------
+RAND hit rate: 0.044
+OPT hit rate: 0.211
+-------------------------
+Experiment: 7
+-------------------------
+RAND hit rate: 0.058
+OPT hit rate: 0.235
+-------------------------
+Experiment: 8
+-------------------------
+RAND hit rate: 0.03
+OPT hit rate: 0.194
+-------------------------
+Experiment: 9
+-------------------------
+RAND hit rate: 0.046
+OPT hit rate: 0.218
+-------------------------
+Experiment: 10
+-------------------------
+RAND hit rate: 0.047
+OPT hit rate: 0.206
+-------------------------
+RAND average hit rate: 0.04209999999999999
+OPT average hit rate: 0.2083
+-------------------------
+-------------------------
+Cache Size: 50
+-------------------------
+Experiment: 1
+-------------------------
+RAND hit rate: 0.106
+OPT hit rate: 0.315
+-------------------------
+Experiment: 2
+-------------------------
+RAND hit rate: 0.105
+OPT hit rate: 0.312
+-------------------------
+Experiment: 3
+-------------------------
+RAND hit rate: 0.099
+OPT hit rate: 0.311
+-------------------------
+Experiment: 4
+-------------------------
+RAND hit rate: 0.103
+OPT hit rate: 0.316
+-------------------------
+Experiment: 5
+-------------------------
+RAND hit rate: 0.106
+OPT hit rate: 0.314
+-------------------------
+Experiment: 6
+-------------------------
+RAND hit rate: 0.096
+OPT hit rate: 0.318
+-------------------------
+Experiment: 7
+-------------------------
+RAND hit rate: 0.11
+OPT hit rate: 0.318
+-------------------------
+Experiment: 8
+-------------------------
+RAND hit rate: 0.106
+OPT hit rate: 0.317
+-------------------------
+Experiment: 9
+-------------------------
+RAND hit rate: 0.095
+OPT hit rate: 0.301
+-------------------------
+Experiment: 10
+-------------------------
+RAND hit rate: 0.101
+OPT hit rate: 0.311
+-------------------------
+RAND average hit rate: 0.10269999999999999
+OPT average hit rate: 0.3133
+-------------------------
+-------------------------
+Cache Size: 70
+-------------------------
+Experiment: 1
+-------------------------
+RAND hit rate: 0.133
+OPT hit rate: 0.359
+-------------------------
+Experiment: 2
+-------------------------
+RAND hit rate: 0.144
+OPT hit rate: 0.356
+-------------------------
+Experiment: 3
+-------------------------
+RAND hit rate: 0.128
+OPT hit rate: 0.358
+-------------------------
+Experiment: 4
+-------------------------
+RAND hit rate: 0.119
+OPT hit rate: 0.338
+-------------------------
+Experiment: 5
+-------------------------
+RAND hit rate: 0.125
+OPT hit rate: 0.351
+-------------------------
+Experiment: 6
+-------------------------
+RAND hit rate: 0.155
+OPT hit rate: 0.377
+-------------------------
+Experiment: 7
+-------------------------
+RAND hit rate: 0.132
+OPT hit rate: 0.352
+-------------------------
+Experiment: 8
+-------------------------
+RAND hit rate: 0.138
+OPT hit rate: 0.362
+-------------------------
+Experiment: 9
+-------------------------
+RAND hit rate: 0.143
+OPT hit rate: 0.365
+-------------------------
+Experiment: 10
+-------------------------
+RAND hit rate: 0.141
+OPT hit rate: 0.366
+-------------------------
+RAND average hit rate: 0.1358
+OPT average hit rate: 0.3584
+-------------------------
+-------------------------
+Cache Size: 100
+-------------------------
+Experiment: 1
+-------------------------
+RAND hit rate: 0.192
+OPT hit rate: 0.399
+-------------------------
+Experiment: 2
+-------------------------
+RAND hit rate: 0.179
+OPT hit rate: 0.391
+-------------------------
+Experiment: 3
+-------------------------
+RAND hit rate: 0.201
+OPT hit rate: 0.406
+-------------------------
+Experiment: 4
+-------------------------
+RAND hit rate: 0.22
+OPT hit rate: 0.418
+-------------------------
+Experiment: 5
+-------------------------
+RAND hit rate: 0.198
+OPT hit rate: 0.398
+-------------------------
+Experiment: 6
+-------------------------
+RAND hit rate: 0.19
+OPT hit rate: 0.399
+-------------------------
+Experiment: 7
+-------------------------
+RAND hit rate: 0.198
+OPT hit rate: 0.408
+-------------------------
+Experiment: 8
+-------------------------
+RAND hit rate: 0.207
+OPT hit rate: 0.418
+-------------------------
+Experiment: 9
+-------------------------
+RAND hit rate: 0.186
+OPT hit rate: 0.411
+-------------------------
+Experiment: 10
+-------------------------
+RAND hit rate: 0.196
+OPT hit rate: 0.395
+-------------------------
+RAND average hit rate: 0.19669999999999999
+OPT average hit rate: 0.4043
+-------------------------
+-------------------------
+Cache Size: 200
+-------------------------
+Experiment: 1
+-------------------------
+RAND hit rate: 0.362
+OPT hit rate: 0.465
+-------------------------
+Experiment: 2
+-------------------------
+RAND hit rate: 0.346
+OPT hit rate: 0.477
+-------------------------
+Experiment: 3
+-------------------------
+RAND hit rate: 0.367
+OPT hit rate: 0.476
+-------------------------
+Experiment: 4
+-------------------------
+RAND hit rate: 0.357
+OPT hit rate: 0.469
+-------------------------
+Experiment: 5
+-------------------------
+RAND hit rate: 0.358
+OPT hit rate: 0.463
+-------------------------
+Experiment: 6
+-------------------------
+RAND hit rate: 0.332
+OPT hit rate: 0.461
+-------------------------
+Experiment: 7
+-------------------------
+RAND hit rate: 0.343
+OPT hit rate: 0.468
+-------------------------
+Experiment: 8
+-------------------------
+RAND hit rate: 0.342
+OPT hit rate: 0.461
+-------------------------
+Experiment: 9
+-------------------------
+RAND hit rate: 0.319
+OPT hit rate: 0.454
+-------------------------
+Experiment: 10
+-------------------------
+RAND hit rate: 0.35
+OPT hit rate: 0.459
+-------------------------
+RAND average hit rate: 0.3476
+OPT average hit rate: 0.46529999999999994
+-------------------------
+-------------------------
+
+Process finished with exit code 0
